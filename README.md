@@ -3,45 +3,22 @@ GA Tech BootCamp - Module 01
 
 ## Description
 
-This project was completed to refactor the existing code used by Horiseon Marketing. In the process, we added semantic elements to the client's existing HTML code to increase visibility to search engines such as Google. The code was also upadated by adding alt text to increase accessibility for those using screen-readers, making for a better user-experience. In addition, the CSS code was also consolidated, making it shorter and easier to read for the next developer. During this process, I have learned how to properly comment, consolidate and increase visibility when creating a public wibsite.
-
-- What was your motivation?
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-- What problem does it solve?
-- What did you learn?
-
+This project was completed to refactor the existing code used by Horiseon Marketing. In the process, we added semantic elements to the client's existing HTML code to increase visibility to search engines such as Google. The code was also updated by adding alt text to increase accessibility for those using screen-readers, making for a better user-experience. In addition, the CSS code was also consolidated, making it shorter and easier to read for the next developer. During this process, I have learned how to properly comment, consolidate and increase visibility when creating a public website.
 
 ## Installation
 
-This project generated a standard website that can be reached using any browser. Please enter the following URL the the address bar of your desired browser to access: 
+This project generated a standard website that can be reached using any browser. Please enter the following URL the the address bar of your desired browser to access: https://tinathedev91.github.io/Horiseon-Refactor/
+
+If you have trouble accessing or viewing, please email TinaTheDev91@gmail.com
 
 ## Usage
 
-Provide instructions and examples for use. Include screenshots as needed.
+Upon viewing, the webpage should resemble the following screenshot. If there are any issues, please email the address above
 
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
-
-    ```md
-    ![alt text](assets/images/screenshot.png)
-    ```
-
-## Credits
-
-List your collaborators, if any, with links to their GitHub profiles.
-
-If you used any third-party assets that require attribution, list the creators with links to their primary web presence in this section.
-
-If you followed tutorials, include links to those here as well.
-
-## License
-
-The last section of a high-quality README file is the license. This lets other developers know what they can and cannot do with your project. If you need help choosing a license, refer to [https://choosealicense.com/](https://choosealicense.com/).
-
----
-
-🏆 The previous sections are the bare minimum, and your project will ultimately determine the content of this document. You might also want to consider adding the following sections.
+![screenshot of webite](./Assets/images/Screenshot%20of%20Website.jpg)
 
 
-## Tests
+## Credits and Mentions
 
-Go the extra mile and write tests for your application. Then provide examples on how to run them here.
+Thank you to my tutor Josshy Olea for the assistance with this project.
+
